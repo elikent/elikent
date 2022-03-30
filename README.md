@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elikent
 - 👀 I’m interested in developing applications to facilitate input and access of information in my organization. 
-- 🌱 I’m currently learning SQL, Azure, Power Apps, BudiBase.
+- 🌱 I’m currently learning SQL, Azure, Power Apps, BudiBase, Javascript
 - 📫 How to reach me elikent@gmail.com
 
 <!---
